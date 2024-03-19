@@ -1,0 +1,15 @@
+Hamilton Pump
+Initialize commands:
+/1h30001R
+/1h20000R
+/1h10010R
+
+Syringe Commands: 
+/1S20R
+/1A1500R
+
+Valve Commands: 
+/1h27045R #clockwise
+
+Valve Commands: 
+/1h28000R #counter-clockwise
